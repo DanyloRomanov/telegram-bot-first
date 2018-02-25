@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DanyloRomanov/telegram-bot-first/issues"
   },
-  "homepage": "https://github.com/DanyloRomanov/telegram-bot-first#readme"
+  "homepage": "https://github.com/DanyloRomanov/telegram-bot-first#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
+  }
 }
