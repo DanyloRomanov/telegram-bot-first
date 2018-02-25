@@ -1,0 +1,22 @@
+{
+  "name": "telegram-bot-first",
+  "version": "1.0.0",
+  "description": "my first telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanyloRomanov/telegram-bot-first.git"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "Danylo Romanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanyloRomanov/telegram-bot-first/issues"
+  },
+  "homepage": "https://github.com/DanyloRomanov/telegram-bot-first#readme"
+}
