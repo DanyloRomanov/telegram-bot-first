@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/DanyloRomanov/telegram-bot-first#readme",
   "dependencies": {
-    "htmlparser2": "^3.9.2"
+    "htmlparser2": "^3.9.2",
+    "node-telegram-bot-api": "^0.30.0"
   }
 }
